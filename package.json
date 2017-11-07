@@ -1,0 +1,23 @@
+{
+  "name": "r-setActiveDay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.rakuten-it.com/scm/icwdcdg/your_js_file_name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "google-closure-compiler": "*",
+    "gulp": "*",
+    "gulp-convert-encoding": "*",
+    "gulp-header": "*",
+    "gulp-jshint": "*",
+    "gulp-rename": "*",
+    "jshint": "*"
+  }
+}
